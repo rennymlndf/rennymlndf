@@ -1,8 +1,8 @@
 # Hi there, I'm Renny Melanda Febriyanti 👋
 
 ## 🌟 About Me :
-- 🎓 6th Semester Informatics Engineering Student at Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin
-- 🖥️ Passionate Web Developer and Freelancer   
+- 🎓 7th Semester Informatics Engineering Student at Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin
+- 🖥️ Passionate Web Developer and Project Officer  
 
 ## 🌱 Currently Learning :
 - **PostgreSQL** to master database design and queries  
