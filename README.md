@@ -2,7 +2,7 @@
 
 ## 🌟 About Me :
 - 🎓 7th Semester Informatics Engineering Student at Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin
-- 🖥️ Passionate Web Developer and Project Officer  
+- 🖥️ Passionate Web Developer
 
 ## 🌱 Currently Learning :
 - **PostgreSQL** to master database design and queries  
