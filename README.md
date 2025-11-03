@@ -72,9 +72,6 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   </a> 
-  <a href="https://framer.com/motion" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="40" height="40"/> 
-  </a>
   <a href="https://www.canva.com/" target="_blank"> 
     <img src="https://firebearstudio.com/blog/wp-content/uploads/2022/11/1A6kkoOVJVpXPWewg8axc5w.png" alt="Canva" width="40" height="40"/> 
   </a>
