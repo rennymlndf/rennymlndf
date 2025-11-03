@@ -95,7 +95,6 @@
 ## 📬 Contact Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://id.linkedin.com/in/rennymlndf)  
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/rennymlndf/#)  
-[![Website](https://img.shields.io/badge/Portfolio-website-brightgreen?style=flat&logo=vercel)](https://web-portfolio-rennymlndf.vercel.app/)
 
 ---
 
