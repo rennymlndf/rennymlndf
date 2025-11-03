@@ -4,13 +4,6 @@
 - 🎓 7th Semester Informatics Engineering Student at Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin
 - 🖥️ Passionate Web Developer
 
-## 🌱 Currently Learning :
-- **PostgreSQL** to master database design and queries  
-- **TypeScript** to enhance my React and Next.js projects  
-- **Web3** and Blockchain technologies for future-proof solutions  
-
-## 🛠️ My Toolbox :
-
 ### 🗣️ Languages :
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -27,7 +20,7 @@
   </a>
 </p>
 
-### ⚙️ Frameworks & Tools :
+### ⚙️ Frameworks and Tools :
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
@@ -41,9 +34,6 @@
   <a href="https://nodejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
   </a> 
-  <a href="https://prisma.io/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="Prisma" width="40" height="40"/> 
-  </a>
   <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
   </a> 
@@ -53,9 +43,6 @@
   <a href="https://vercel.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/> 
   </a> 
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
   <a href="https://laragon.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" alt="Laragon" width="40" height="40"/>
   </a>
@@ -96,23 +83,6 @@
   </a>
 </p>
 
-
-## 🌍 My Passions :
-- 🏋️‍♂️ Gym and staying healthy  
-- 👨‍🍳 Cooking and trying new recipes  
-- 💡 Exploring new tech and freelancing opportunities  
-- 📚 Exploring knowledge through reading books about **philosophy** and **personal finance**  
-
-
----
-
-## ✨ Highlight Projects :
-
-
-## 🎯 Fun Facts :
-- I love creating engaging UI animations with **Framer Motion**  
-- I'm planning to expand my freelancing services internationally 🌎  
-
 ---
 ## 📊 GitHub Stats :
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rennymlndf&show_icons=true&theme=tokyonight)
@@ -122,16 +92,10 @@
 ---
 
 
-## 📬 Reach Me :
+## 📬 Contact Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://id.linkedin.com/in/rennymlndf)  
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/rennymlndf/#)  
 [![Website](https://img.shields.io/badge/Portfolio-website-brightgreen?style=flat&logo=vercel)](https://web-portfolio-rennymlndf.vercel.app/)
 
 ---
 
-## 🌟 Random Inspiration :
-_"Consistency beats talent when talent doesn’t work hard."_  
-
----
-
-> 🚀 Let's build something amazing together. Open to collaborations and freelance projects!
