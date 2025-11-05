@@ -1,10 +1,10 @@
-# Hi there, I'm Renny Melanda Febriyanti 👋
+# Hi there, I'm Renny Melanda Febriyanti 
 
-## 🌟 About Me :
+## About Me :
 - 🎓 7th Semester Informatics Engineering Student at Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin
 - 🖥️ Passionate Web Developer
 
-### 🗣️ Languages :
+### Languages :
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-### ⚙️ Frameworks and Tools :
+### Frameworks and Tools :
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
@@ -67,7 +67,7 @@
   </a>
 </p>
 
-### ✨ Other Skills:
+### Other Skills:
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
