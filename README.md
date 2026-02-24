@@ -82,10 +82,12 @@
 
 ---
 ## 📊 GitHub Stats :
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rennymlndf&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rennymlndf&layout=compact&theme=tokyonight)
-
-
+<p align="left">
+<a href="https://github.com/rennymlndf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmdriyo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmdriyo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 ---
 
 
