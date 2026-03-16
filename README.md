@@ -1,7 +1,7 @@
 # Hi there, I'm Renny Melanda Febriyanti 
 
 ## About Me :
-- 🎓 8th Semester Informatics Engineering Student at Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin
+- 🎓 7th Semester Informatics Engineering Student at Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin
 - 🖥️ Passionate AI, Web, and Android Developer
 
 ### Languages :
