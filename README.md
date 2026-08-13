@@ -2,7 +2,7 @@
 
 ## About Me :
 - 🎓 8th Semester Informatics Engineering Student at Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin
-- 🖥️ Passionate AI, Web, and Android Developer
+- 🖥️ Passionate Machine Learning and Geospatial Artificial Intelligence
 
 ### Languages :
 <p align="left"> 
